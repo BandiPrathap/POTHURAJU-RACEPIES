@@ -1,0 +1,28 @@
+.starter-container{
+    background-color:#faf9f5;
+    padding:20px;
+
+}
+.card-1{
+    background-color:#f5eee4;
+    margin:15px;
+    border-radius:10px;
+}
+
+.card-details{
+    padding:15px;
+}
+.image{
+    padding:10px;
+    width:20vw;
+    background-size:cover;
+    border-radius:10px;
+}
+.view-btn{
+    border:none;
+    background-color:transparent;
+    color:blue;
+}
+.follow-us-container{
+    backgroun-color:#1e1f21;
+}
